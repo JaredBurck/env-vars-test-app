@@ -1,15 +1,17 @@
 # env-vars-test-app
 A Java ReST application the returns the environment variables
 
-helloworld-rs: Helloworld Using JAX-RS (Java API for RESTful Web Services)
+env-vars-test-app using JAX-RS (Java API for RESTful Web Services)
+
 ==========================================================================
-Author: Gustavo A. Brey, Gaston Coco  
+Author: Jared Burck
 Level: Intermediate  
 Technologies: CDI, JAX-RS  
-Summary: The `helloworld-rs` quickstart demonstrates a simple Hello World application, bundled and deployed as a WAR, that uses *JAX-RS* to say Hello.    
-Target Product: JBoss EAP  
-Source: <https://stash.ba.ssa.gov/cit/jboss-eap-quickstarts/>  
-AåA
+Summary: The `env-vars-app` quickstart demonstrates a simple rest application, bundled and deployed as a WAR, that uses *JAX-RS* to get system environment variables.    
+Target Product: JBoss EAP 6
+Source: <https://github.com/jaredburck/env-vars-test-app>  
+==========================================================================
+
 What is it?
 -----------
 
