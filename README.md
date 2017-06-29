@@ -1,8 +1,4 @@
-# env-vars-test-app
-A Java ReST application the returns the environment variables
-
 env-vars-test-app using JAX-RS (Java API for RESTful Web Services)
-
 ==========================================================================
 Author: Jared Burck
 Level: Intermediate  
@@ -10,7 +6,7 @@ Technologies: CDI, JAX-RS
 Summary: The `env-vars-app` quickstart demonstrates a simple rest application, bundled and deployed as a WAR, that uses *JAX-RS* to get system environment variables.    
 Target Product: JBoss EAP 6
 Source: <https://github.com/jaredburck/env-vars-test-app>  
-==========================================================================
+
 
 What is it?
 -----------
